@@ -10,19 +10,19 @@ You can find here some **Python notebooks templates** you can use for your compu
 
 AutoML for Images is currently in **Public Preview**.
 
-What is AutoML for Images?
+- What is AutoML for Images?
 https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml#computer-vision-preview
 
-Algorithms
+- Algorithms
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models#supported-model-algorithms
 
-Tutorials
+- Tutorials
 https://docs.microsoft.com/en-us/azure/machine-learning/v1/tutorial-auto-train-image-models-v1
 
-ONNX
+- ONNX
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-inference-onnx-automl-image-models?tabs=multi-class
 
-How to use AutoML for Images?
+- How to use AutoML for Images?
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-automl-small-object-detect
 https://docs.microsoft.com/en-us/azure/machine-learning/v1/how-to-auto-train-image-models-v1
 
