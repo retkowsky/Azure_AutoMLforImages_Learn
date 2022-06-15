@@ -24,6 +24,8 @@ https://docs.microsoft.com/en-us/azure/machine-learning/how-to-inference-onnx-au
 - How to use AutoML for Images?
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-automl-small-object-detect
 https://docs.microsoft.com/en-us/azure/machine-learning/v1/how-to-auto-train-image-models-v1
+- About Azure ML
+https://azure.microsoft.com/en-us/services/machine-learning/
 
 ## Notes
 AutoML for Images is currently in <b>Public Preview</b>.
