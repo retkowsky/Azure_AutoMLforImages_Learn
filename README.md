@@ -1,4 +1,4 @@
-# Learning AutoML for Images with Azure ML
+# Learning Azure AutoML for Images
 
 AutoML is an Azure Machine Learning feature, that empowers both professional and citizen data scientists to build machine learning models rapidly. Since its launch, AutoML has helped accelerate model building for essential machine learning tasks like **Classification, Regression and Time-series Forecasting.**
 
