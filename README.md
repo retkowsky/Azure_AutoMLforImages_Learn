@@ -8,7 +8,7 @@ Documentation:
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models
 
 <br>
-14-Oct-2021<br><br>
+14-June-2022<br><br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
 
 <b>Note: All these Python notebooks were made for demo purposes. They were not designed for production usage.
