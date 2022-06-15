@@ -1,6 +1,6 @@
 # Image Classification with Azure AutoML for Images
 
-<img src="image.jpg">
+<img src = "image.jpg"  width = 300>
 
 Azure Automated ML for Images supports model training for computer vision tasks like image classification, object detection, and instance segmentation. 
 Authoring AutoML models for computer vision tasks is currently supported via the Azure Machine Learning Python SDK. The resulting experimentation runs, models, and outputs are accessible from the Azure Machine Learning studio UI. 
