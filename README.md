@@ -9,7 +9,7 @@ There is as well some **Computer Vision algorithms available with AutoML for Ima
 You can find here some **Python notebooks templates** you can use for your computer vision projects with Azure ML:
 - [Image Classification](https://github.com/retkowsky/Azure_AutoMLforImages_Learn/tree/main/Image_Classification)
 
-AutoML for Images is currently in **Public Preview**.
+## Documentation
 
 - What is AutoML for Images?
 https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml#computer-vision-preview
@@ -32,6 +32,8 @@ https://docs.microsoft.com/en-us/azure/machine-learning/v1/how-to-auto-train-ima
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
 <br>
 <br>
-<b>Note: All these Python notebooks were made for demo purposes. They were not designed for production usage.
+<b>
+ AutoML for Images is currently in **Public Preview**. 
+ Note: All these Python notebooks were made for demo purposes. They were not designed for production usage.
 This feature is currently in public preview. This preview version is provided without a service-level agreement. Certain features might not be supported or might have constrained capabilities. For more information, see Supplemental Terms of Use for Microsoft Azure Previews.
 https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/</b>
