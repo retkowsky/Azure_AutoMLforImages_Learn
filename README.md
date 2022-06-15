@@ -4,6 +4,8 @@ AutoML is an Azure Machine Learning feature, that empowers both professional and
 
 There is as well some Computer Vision algorithms available with AutoML for Images.
 
+You can find here some Python notebooks templates you can use for your computer vision projects with Azure ML:
+
 AutoML for Images is currently in **Public Preview**.
 
 What is AutoML for Images?
@@ -25,7 +27,8 @@ https://docs.microsoft.com/en-us/azure/machine-learning/v1/how-to-auto-train-ima
 <br>
 14-June-2022<br><br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
-
+<br>
+<br>
 <b>Note: All these Python notebooks were made for demo purposes. They were not designed for production usage.
 This feature is currently in public preview. This preview version is provided without a service-level agreement. Certain features might not be supported or might have constrained capabilities. For more information, see Supplemental Terms of Use for Microsoft Azure Previews.
 https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/</b>
