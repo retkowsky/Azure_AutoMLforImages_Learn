@@ -4,8 +4,21 @@ AutoML is an Azure Machine Learning feature, that empowers both professional and
 
 AutoML for Images is currently in **Public Preview**.
 
-Documentation:
-https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models
+What is AutoML for Images?
+https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml#computer-vision-preview
+
+Algorithms
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models#supported-model-algorithms
+
+Tutorials
+https://docs.microsoft.com/en-us/azure/machine-learning/v1/tutorial-auto-train-image-models-v1
+
+ONNX
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-inference-onnx-automl-image-models?tabs=multi-class
+
+How to use AutoML for Images?
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-automl-small-object-detect
+https://docs.microsoft.com/en-us/azure/machine-learning/v1/how-to-auto-train-image-models-v1
 
 <br>
 14-June-2022<br><br>
