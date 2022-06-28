@@ -1,6 +1,6 @@
 # Instance Segmentation with AutoML for Images
 
-**Segmentation consists to segregate objects in a visual environment**. **Instance Segmentation** is a form of image segmentation that detect instances of objects and demarcating their boundaries. It will detect the **polygon of the object or attribute** you want to detect. So it is possible to compute a surface of the object you want to detect. It can be useful for many use-cases (dust detection, corrosion detection, healthcare...).
+**Segmentation consists to segregate objects in a visual environment**. **Instance Segmentation** is a form of image segmentation that detect instances of objects and demarcating their boundaries. It will detect the **polygon of the object or attribute** using a Computer Vision model. So it is possible to compute a surface of the object you want to detect. It can be useful for many use-cases (dust detection, corrosion detection, healthcare...).
 
 <img src="https://github.com/retkowsky/Azure_AutoMLforImages_Learn/blob/main/Instance_Segmentation/animatedgif.gif">
 
