@@ -29,8 +29,7 @@ https://docs.microsoft.com/en-us/azure/machine-learning/v1/how-to-auto-train-ima
 https://azure.microsoft.com/en-us/services/machine-learning/
 
 ## Notes
-AutoML for Images is currently in <b>Public Preview</b>.
-<br><br>
+<br>
 All these Python notebooks were made for demo purposes. They were not designed for production usage.<br>
 This feature is currently in public preview. This preview version is provided without a service-level agreement. Certain features might not be supported or might have constrained capabilities. For more information, see Supplemental Terms of Use for Microsoft Azure Previews.<br>
 https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/
